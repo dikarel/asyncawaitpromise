@@ -1,8 +1,8 @@
 {
   "name": "asyncawaitpromise",
   "author": "Darius I. Karel <me@dikarel.com>",
-  "description": "One liner to add async/await and promises to your project",
-  "version": "1.0.0",
+  "description": "One liner to add async/await and promises to your project, without globals",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "promise",

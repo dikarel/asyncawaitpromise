@@ -1,8 +1,8 @@
 # asyncawaitpromise
 
-One liner to add async/await and promises to your project
+One liner to add async/await and promises to your project, without globals
 
-Check out [global-asyncawaitpromise](to http://npmjs.com/package/global-asyncawaitpromise)
+Check out [global-asyncawaitpromise](https://npmjs.com/package/global-asyncawaitpromise)
 for a shorter one-liner that uses globals
 
 ### Quickstart
